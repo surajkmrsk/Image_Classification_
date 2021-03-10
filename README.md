@@ -1,1 +1,1 @@
-# Deep-Learning-Car-Brand
+# Deep-Learning-Annimal-class detection
